@@ -18,7 +18,7 @@
 *And I think I realized something. I found myself.*
 *I want to progress in this direction, and I always try to improve my skils and knowlege to became a professional.*
 *I have some experience at comercial development.*
-*I got some knowlege about Angular? because our projects use it.*
+*I got some knowlege about Angular, because our projects use it.*
 *My job enough intresting, I like it.*
 
 ## Skills:
@@ -33,28 +33,36 @@
 
 
 ## Examples:
-*I have examples of code, but it`s private data.*
+*I have examples of code, but it's private data.*
 *You can gaze on this site, for example.*
 *And this is a test exercise that I did at my first interview.*
 
 ## Employment History
 - *Nov 2018 -NOW*
-*Solidexpert Ltd - junior Front end developer*
+
+*Solidexpert Ltd-junior Front end developer*
 
 ## Education
 - *2010*
+
 *BNTU, Minsk, Belarus*
+
 *Mining engineering.*
 
-- *2018 *
+- *2018*
+
 *Educational Center of HTP "IT Academy", Minsk, Belarus*
+
 *Website development using HTML, CSS and JavaScript*
 
 - *2019*
+
 *The Rolling Scopes School*
+
 *JavaScript Development Q1-2019*
 
 ## English
-*Pre intermediate*
+*Pre intermediate.*
+
 *And I go on studying English.*
 
